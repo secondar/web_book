@@ -1,0 +1,43 @@
+﻿body {
+    margin:0 auto;
+    padding:0;
+    width:100%;
+    height:100%;
+    background-image:url(/image/login_background.png);
+}
+.login_control {
+    width:405px;
+    height:183px;
+    background:url(/image/login_control.png);
+    margin:20% auto;
+    padding-top:100px;
+}
+.login_control_name {
+    margin-left:20%;
+}
+.login_control_password {
+    margin-top:1%;
+    margin-left:20%;
+}
+.login_control_login {
+    margin-top:5%;
+    margin-left:30%;
+    width:100%;
+}
+.Main_home {
+    margin:0 auto;
+    padding:10%;
+    text-align:center;
+}
+.Adduser {
+    padding-top:10%;
+    margin:0 auto;
+    text-align:center;
+}
+.Borrowing_book {
+    width:50%;
+    float:left;
+    padding:0;
+    margin:0;
+    text-align:center;
+}
